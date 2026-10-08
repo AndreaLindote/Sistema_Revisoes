@@ -1,0 +1,7 @@
+credenciais.env
+.env
+__pycache__/
+*.pyc
+*.pyo
+sistema_revisoes_db
+import
